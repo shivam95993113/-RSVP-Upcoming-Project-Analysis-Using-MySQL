@@ -4,4 +4,3 @@ An Indian film production business called RSVP Movies has created a number of bl
 
 
 
-[! alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fshinde-chandrakant%2FRSVP-MOVIES-case-study-SQL&psig=AOvVaw3QkA-nBglK_uQebzl_OxiB&ust=1689835931415000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCIDcqcWXmoADFQAAAAAdAAAAABAE)
